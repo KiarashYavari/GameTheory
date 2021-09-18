@@ -1,3 +1,2 @@
 # GameTheory
-this repository contains matrix_solver and Dawson_chess implementation from Game Theory course
-حل ماتریس به روش سادکی ماکسیسمم اندازه هر ماتریس = ۹
+Matrix_solver in game theory for making the best decision.
